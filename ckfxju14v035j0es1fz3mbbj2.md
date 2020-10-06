@@ -95,6 +95,8 @@ Example:
 }
 console.log(a);     // undefined
 ```
+
+>Note: var is function scope, declaring variables with 'var' will not be block scoped. Use 'let' for declaring block scoped variables
 <br>
 <br>
 
