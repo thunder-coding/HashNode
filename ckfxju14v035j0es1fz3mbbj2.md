@@ -89,7 +89,7 @@ Block scope can be very useful to avoid any unnecessary memory.
 Example:
 ```
 {
-    var a = "Hello";
+    let a = "Hello";
     console.log(a);
     // Expected output "Hello"
 }
