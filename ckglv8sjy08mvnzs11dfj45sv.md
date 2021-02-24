@@ -100,7 +100,7 @@ Also most of the WordPress website leaks/hacks happen only because of third part
 
 Majority of developers are familiar with Git. Git is a version control tool.
 
-If you are exposing your .git folders then you are exposing the whole source code of the site to attackers.
+If you are exposing your `.git` folders then you are exposing the whole source code of the site to attackers.
 
 
 
